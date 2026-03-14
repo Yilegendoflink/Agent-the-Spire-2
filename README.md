@@ -96,12 +96,8 @@
    - 在此根目录打开终端运行：
      `dotnet build`
      
-2. **运行 Python 服务器**
-   在 `python_server` 目录下打开终端：
-   ```bash
-   pip install -r requirements.txt
-   uvicorn server:app --reload
-   ```
+2. **运行你的LLM Agent服务端**
+
 
 3. **进入游戏游玩**
    打开 《Slay the Spire 2》，启用了此 Mod 后，在开局选择并获得 `LlmControllerRelic` (或相应遗物)。
