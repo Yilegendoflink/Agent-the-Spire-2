@@ -9,10 +9,10 @@
 		<Nullable>enable</Nullable>
 		
 		<!-- ↓ MOD METADATA - Change these! -->
-		<ModName>ExampleMod</ModName>
-		<ModDisplayName>Example Mod</ModDisplayName>
-		<ModAuthor>lamali</ModAuthor>
-		<ModVersion>1.0.0</ModVersion>
+		<ModName>Agent the Spire 2</ModName>
+		<ModDisplayName>Agent the Spire 2</ModDisplayName>
+		<ModAuthor>Yi_legendoflink</ModAuthor>
+		<ModVersion>0.9.0</ModVersion>
 		
 		<AssemblyName>$(ModName)</AssemblyName>
 		<Version>$(ModVersion)</Version>

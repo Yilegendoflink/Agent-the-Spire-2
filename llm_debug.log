@@ -1,0 +1,314 @@
+[15:08:38.911] ==================================================
+[15:08:38.912] [LLM Mod] Play phase started, starting decision loop...
+[15:15:14.094] ==================================================
+[15:15:14.095] [LLM Mod] Play phase started, starting decision loop in background...
+[15:15:21.986] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:15:21.986] [LLM Mod] Parsing action: play_card
+[15:15:32.919] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": null}
+[15:15:32.920] [LLM Mod] Parsing action: play_card
+[15:15:43.219] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": null}
+[15:15:43.220] [LLM Mod] Parsing action: play_card
+[15:15:46.186] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:15:46.186] [LLM Mod] Parsing action: end_turn
+[15:15:51.551] ==================================================
+[15:15:51.551] [LLM Mod] Play phase started, starting decision loop in background...
+[15:16:00.186] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 2, "target_idx": 0}
+[15:16:00.187] [LLM Mod] Parsing action: play_card
+[15:16:11.753] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 2, "target_idx": 0}
+[15:16:11.754] [LLM Mod] Parsing action: play_card
+[15:16:17.254] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:16:17.254] [LLM Mod] Parsing action: end_turn
+[15:16:23.584] ==================================================
+[15:16:23.584] [LLM Mod] Play phase started, starting decision loop in background...
+[15:16:39.191] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:16:39.191] [LLM Mod] Parsing action: play_card
+[15:16:55.494] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:16:55.494] [LLM Mod] Parsing action: play_card
+[15:17:06.082] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:17:06.083] [LLM Mod] Parsing action: play_card
+[15:17:10.809] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:17:10.810] [LLM Mod] Parsing action: end_turn
+[15:17:17.014] ==================================================
+[15:17:17.014] [LLM Mod] Play phase started, starting decision loop in background...
+[15:17:23.618] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 2, "target_idx": 0}
+[15:17:23.619] [LLM Mod] Parsing action: play_card
+[15:29:23.942] ==================================================
+[15:29:23.943] [LLM Mod] Play phase started, starting decision loop in background...
+[15:29:43.632] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 2}
+[15:29:43.633] [LLM Mod] Parsing action: play_card
+[15:29:54.165] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": null}
+[15:29:54.166] [LLM Mod] Parsing action: play_card
+[15:29:57.499] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:29:57.499] [LLM Mod] Parsing action: end_turn
+[15:30:05.164] ==================================================
+[15:30:05.164] [LLM Mod] Play phase started, starting decision loop in background...
+[15:30:16.199] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 1, "target_idx": null}
+[15:30:16.199] [LLM Mod] Parsing action: play_card
+[15:30:27.198] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:30:27.199] [LLM Mod] Parsing action: play_card
+[15:30:37.598] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:30:37.599] [LLM Mod] Parsing action: play_card
+[15:30:43.231] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:30:43.232] [LLM Mod] Parsing action: end_turn
+[15:30:51.564] ==================================================
+[15:30:51.564] [LLM Mod] Play phase started, starting decision loop in background...
+[15:31:06.065] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 4, "target_idx": 0}
+[15:31:06.065] [LLM Mod] Parsing action: play_card
+[15:31:15.898] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": null}
+[15:31:15.899] [LLM Mod] Parsing action: play_card
+[15:31:23.664] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:31:23.665] [LLM Mod] Parsing action: end_turn
+[15:31:29.797] ==================================================
+[15:31:29.797] [LLM Mod] Play phase started, starting decision loop in background...
+[15:31:40.664] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 3, "target_idx": 0}
+[15:31:40.665] [LLM Mod] Parsing action: play_card
+[15:31:49.731] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 3, "target_idx": null}
+[15:31:49.731] [LLM Mod] Parsing action: play_card
+[15:31:54.431] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:31:54.431] [LLM Mod] Parsing action: end_turn
+[15:32:00.364] ==================================================
+[15:32:00.364] [LLM Mod] Play phase started, starting decision loop in background...
+[15:32:07.997] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 1, "target_idx": 0}
+[15:32:07.998] [LLM Mod] Parsing action: play_card
+[15:32:17.197] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 1, "target_idx": 0}
+[15:32:17.198] [LLM Mod] Parsing action: play_card
+[15:32:23.464] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 2, "target_idx": 0}
+[15:32:23.464] [LLM Mod] Parsing action: play_card
+[15:32:23.664] ==================================================
+[15:32:23.664] [LLM Mod] Combat has ended. Sending BATTLE_END signal to Python...
+[15:32:23.666] [LLM Mod] BATTLE_END signal dispatched successfully.
+[15:44:38.699] ==================================================
+[15:44:38.700] [LLM Mod] Play phase started, starting decision loop in background...
+[15:44:52.696] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 4, "target_idx": 0}
+[15:44:52.696] [LLM Mod] Parsing action: play_card
+[15:45:02.062] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 2, "target_idx": null}
+[15:45:02.063] [LLM Mod] Parsing action: play_card
+[15:45:06.396] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:45:06.397] [LLM Mod] Parsing action: end_turn
+[15:45:11.161] ==================================================
+[15:45:11.161] [LLM Mod] Play phase started, starting decision loop in background...
+[15:45:22.229] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 2, "target_idx": 0}
+[15:45:22.230] [LLM Mod] Parsing action: play_card
+[15:45:34.395] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 2, "target_idx": 0}
+[15:45:34.396] [LLM Mod] Parsing action: play_card
+[15:45:45.128] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 2, "target_idx": 0}
+[15:45:45.129] [LLM Mod] Parsing action: play_card
+[15:45:50.395] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:45:50.396] [LLM Mod] Parsing action: end_turn
+[15:45:56.427] ==================================================
+[15:45:56.427] [LLM Mod] Play phase started, starting decision loop in background...
+[15:46:15.695] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 2, "target_idx": 0}
+[15:46:15.695] [LLM Mod] Parsing action: play_card
+[15:46:32.161] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:46:32.162] [LLM Mod] Parsing action: end_turn
+[15:46:37.860] ==================================================
+[15:46:37.860] [LLM Mod] Play phase started, starting decision loop in background...
+[15:46:44.662] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 1, "target_idx": 0}
+[15:46:44.662] [LLM Mod] Parsing action: play_card
+[15:46:44.861] ==================================================
+[15:46:44.861] [LLM Mod] Combat has ended. Sending BATTLE_END signal to Python...
+[15:46:44.863] [LLM Mod] BATTLE_END signal dispatched successfully.
+[15:50:55.508] ==================================================
+[15:50:55.509] [LLM Mod] Play phase started, starting decision loop in background...
+[15:51:11.565] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 4, "target_idx": 0}
+[15:51:11.565] [LLM Mod] Parsing action: play_card
+[15:51:19.068] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:51:19.068] [LLM Mod] Parsing action: play_card
+[15:51:19.069] [LLM Mod ERROR] Failed executing single step:
+Tried to get local action queue for nonexistent player with ID 1!
+[15:51:56.037] ==================================================
+[15:51:56.037] [LLM Mod] Play phase started, starting decision loop in background...
+[15:51:56.239] [LLM Mod] Raw response from Python: 
+[15:52:21.230] ==================================================
+[15:52:21.230] [LLM Mod] Play phase started, starting decision loop in background...
+[15:52:32.389] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 3, "target_idx": 0}
+[15:52:32.390] [LLM Mod] Parsing action: play_card
+[15:52:32.390] [LLM Mod ERROR] Failed executing single step:
+Tried to get local action queue for nonexistent player with ID 1!
+[15:53:02.938] ==================================================
+[15:53:02.939] [LLM Mod] Play phase started, starting decision loop in background...
+[15:53:03.142] [LLM Mod] Raw response from Python: 
+[15:53:31.459] ==================================================
+[15:53:31.459] [LLM Mod] Play phase started, starting decision loop in background...
+[15:53:44.663] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:53:44.663] [LLM Mod] Parsing action: play_card
+[15:53:57.929] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:53:57.930] [LLM Mod] Parsing action: play_card
+[15:54:06.160] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 1}
+[15:54:06.161] [LLM Mod] Parsing action: play_card
+[15:54:11.260] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:54:11.261] [LLM Mod] Parsing action: end_turn
+[15:54:21.225] ==================================================
+[15:54:21.225] [LLM Mod] Play phase started, starting decision loop in background...
+[15:54:32.427] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 2, "target_idx": 1}
+[15:54:32.427] [LLM Mod] Parsing action: play_card
+[15:54:41.027] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 1, "target_idx": null}
+[15:54:41.027] [LLM Mod] Parsing action: play_card
+[15:54:45.893] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:54:45.893] [LLM Mod] Parsing action: end_turn
+[15:54:51.692] ==================================================
+[15:54:51.692] [LLM Mod] Play phase started, starting decision loop in background...
+[15:55:03.860] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:55:03.860] [LLM Mod] Parsing action: play_card
+[15:55:16.526] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 1, "target_idx": null}
+[15:55:16.527] [LLM Mod] Parsing action: play_card
+[15:55:24.626] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 1, "target_idx": null}
+[15:55:24.627] [LLM Mod] Parsing action: play_card
+[15:55:30.459] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:55:30.460] [LLM Mod] Parsing action: end_turn
+[15:55:34.958] ==================================================
+[15:55:34.958] [LLM Mod] Play phase started, starting decision loop in background...
+[15:55:42.126] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:55:42.126] [LLM Mod] Parsing action: play_card
+[15:55:53.526] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 1, "target_idx": 0}
+[15:55:53.526] [LLM Mod] Parsing action: play_card
+[15:56:03.492] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 1, "target_idx": 0}
+[15:56:03.493] [LLM Mod] Parsing action: play_card
+[15:56:13.325] [LLM Mod] Raw response from Python: {"action": "end_turn"}
+[15:56:13.326] [LLM Mod] Parsing action: end_turn
+[15:56:20.291] ==================================================
+[15:56:20.291] [LLM Mod] Play phase started, starting decision loop in background...
+[15:56:28.192] [LLM Mod] Raw response from Python: {"action": "play_card", "card_idx": 0, "target_idx": 0}
+[15:56:28.192] [LLM Mod] Parsing action: play_card
+[15:56:28.391] ==================================================
+[15:56:28.392] [LLM Mod] Combat has ended. Sending BATTLE_END signal to Python...
+[15:56:28.393] [LLM Mod] BATTLE_END signal dispatched successfully.
+[15:04:21.265] [LLM Mod] Global Decision Loop Started.
+[15:24:17.881] [LLM Mod] Global Decision Loop Started.
+[15:28:54.444] [LLM Mod] Global Decision Loop Started.
+[15:48:41.488] [LLM Mod] Global Decision Loop Started.
+[16:11:09.302] [LLM Mod] Global Decision Loop Started.
+[16:25:16.994] [LLM Mod] Global Decision Loop Started.
+[16:25:43.332] [LLM Mod] Attempting to select card 9 out of 10 on screen NDeckUpgradeSelectScreen
+[16:25:43.333] [LLM Mod] Emitting Pressed on NCardHolder for 痛击
+[16:25:43.338] [LLM Mod] Signal emitted successfully.
+[16:25:54.532] [LLM Mod] Attempting to select card 0 out of 12 on screen NDeckUpgradeSelectScreen
+[16:25:54.532] [LLM Mod] Emitting Pressed on NCardHolder for 打击
+[16:25:54.535] [LLM Mod] Signal emitted successfully.
+[16:26:05.164] [LLM Mod] Attempting to select card 9 out of 12 on screen NDeckUpgradeSelectScreen
+[16:26:05.165] [LLM Mod] Emitting Pressed on NCardHolder for 痛击
+[16:26:05.166] [LLM Mod] Signal emitted successfully.
+[16:30:22.705] [LLM Mod] Global Decision Loop Started.
+[16:30:45.844] [LLM Mod] Attempting to select card 9 out of 10 on screen NDeckCardSelectScreen
+[16:30:45.845] [LLM Mod] Emitting Pressed on NCardHolder for 痛击
+[16:30:45.849] [LLM Mod] Signal emitted successfully.
+[16:30:54.411] [LLM Mod] Clicking confirm button.
+[21:48:17.695] [LLM Mod] Global Decision Loop Started.
+[21:48:46.825] [LLM Mod] Attempting to select card 0 out of 10 on screen NDeckCardSelectScreen
+[21:48:46.826] [LLM Mod] Emitting Pressed on NCardHolder for 打击
+[21:48:46.830] [LLM Mod] Signal emitted successfully.
+[21:48:58.725] [LLM Mod] Clicking confirm button.
+[21:56:15.339] [LLM Mod] Attempting to select card 0 out of 6 on screen NSimpleCardSelectScreen
+[21:56:15.339] [LLM Mod] Emitting target on NCardGrid for 痛击
+[21:56:15.351] [LLM Mod] Signal emitted successfully.
+[21:58:11.637] [LLM Mod] Attempting to select card 4 out of 7 on screen NDeckEnchantSelectScreen
+[21:58:11.637] [LLM Mod] Emitting Pressed on NCardHolder for 痛击
+[21:58:11.641] [LLM Mod] Signal emitted successfully.
+[21:58:23.936] [LLM Mod] Clicking confirm button.
+[22:19:57.016] [LLM Mod] Global Decision Loop Started.
+[22:20:26.172] [LLM Mod] Attempting to select card 9 out of 10 on screen NDeckUpgradeSelectScreen
+[22:20:26.173] [LLM Mod] Emitting Pressed on NCardHolder for 痛击
+[22:20:26.178] [LLM Mod] Signal emitted successfully.
+[22:20:27.239] [LLM Mod] Clicking confirm button.
+[22:35:04.969] [LLM Mod] Global Decision Loop Started.
+[23:21:25.354] [LLM Mod] Global Decision Loop Started.
+[23:23:24.533] [LLM Mod] Global Decision Loop Started.
+[23:27:00.538] [LLM Mod] Global Decision Loop Started.
+[23:27:32.435] [LLM Mod] Attempting to select card 9 out of 10 on screen NDeckUpgradeSelectScreen
+[23:27:32.436] [LLM Mod] Emitting Pressed on NCardHolder for 痛击
+[23:27:32.442] [LLM Mod] Signal emitted successfully.
+[23:27:33.502] [LLM Mod] Clicking confirm button.
+[23:34:07.168] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:08.199] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:09.230] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:10.263] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:11.297] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:12.330] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:13.362] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:14.395] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:15.428] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:16.462] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:17.509] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:18.529] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:19.562] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:20.595] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:21.628] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:22.661] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:23.700] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:24.728] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:25.762] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:26.795] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:27.828] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:28.861] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:29.896] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:30.929] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:31.961] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:32.995] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:34.028] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:35.062] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:36.095] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:37.128] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:38.161] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:39.194] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:40.228] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:41.262] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:42.295] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:43.338] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:44.361] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:45.394] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:46.428] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:47.461] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:48.495] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:49.527] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:50.561] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:51.594] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:52.628] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:53.662] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:54.694] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:55.728] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:56.761] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:57.794] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:58.828] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:34:59.861] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:00.894] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:01.928] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:02.961] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:03.995] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:05.028] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:06.061] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:07.095] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:08.127] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:09.168] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:10.194] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:11.229] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:12.264] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:13.297] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:14.329] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:15.364] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:16.397] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:17.429] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:18.461] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:19.495] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:20.527] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:21.561] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:22.595] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:23.627] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:24.661] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:25.678] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:26.694] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:27.711] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:28.727] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:29.761] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:30.794] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:31.827] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:32.861] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:33.894] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:34.928] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:35.961] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:36.994] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:38.027] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:39.061] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:40.094] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:41.128] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:42.160] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
+[23:35:43.177] [LLM Mod Error] The remote party closed the WebSocket connection without completing the close handshake.
